@@ -6,7 +6,7 @@ This project is Task from slash
 
 ## Demo
 
-https://github.com/kaokab33/Task-Slash/blob/main/demo_slash%20.mp4
+https://github.com/kaokab33/Task-Slash/assets/93781327/4e101961-5109-47ce-86f5-9fd05d8d6cc4
 
 
 ## Screenshots

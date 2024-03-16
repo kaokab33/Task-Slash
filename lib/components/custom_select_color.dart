@@ -10,15 +10,7 @@ class CustomSelectColor extends StatelessWidget {
   // ignore: prefer_typing_uninitialized_variables
   @override
   Widget build(BuildContext context) {
-    List<Properties> availableProperties =
-        BlocProvider.of<ProductCubit>(context).product.availableProperties;
-    List<String>? colors;
-    for (int i = 0; i < availableProperties.length; i++) {
-      if (availableProperties[i].property == 'Color') {
-        colors = availableProperties[i].values;
-        break;
-      }
-    }
+    List<String>? colors = BlocProvider.of<ProductCubit>(context).colors;
     double width = MediaQuery.of(context).size.width;
     double height = MediaQuery.of(context).size.height;
     return Column(

@@ -3,8 +3,7 @@
 This project is Task from slash
 
 # Video
-![Video](https://raw.githubusercontent.com/kaokab33/Task-Slash/main/demo_slash%20.mp4)
-
+https://github.com/kaokab33/Task-Slash/blob/main/demo_slash%20.mp4
 
 # Screenshots
 | Screenshot 1 | Screenshot 2 |

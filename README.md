@@ -3,10 +3,8 @@
 This project is Task from slash
 
 # Video
-<video width="640" height="480" controls>
-  <source src="https://raw.githubusercontent.com/kaokab33/Task-Slash/main/demo_slash%20.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Video](https://raw.githubusercontent.com/kaokab33/Task-Slash/main/demo_slash%20.mp4)
+
 
 # Screenshots
 | Screenshot 1 | Screenshot 2 |
